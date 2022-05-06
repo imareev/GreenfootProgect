@@ -16,8 +16,8 @@ public class Chip_blue extends Actor
      */
     public void act()
     {
-        // swap_chips();
-        
+        move(1);
+        turn(2);
     }
     
 } 
